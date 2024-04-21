@@ -2,7 +2,7 @@
 Programa criado durante a PYSTACK WEEK 10 - sistema de telemedicina - HEALING
 
 ## Principais tecnologias
-Programa criado utilizando principalmente utilizando Python e Django. 
+Programa criado utilizando principalmente Python e Django. 
 
 ## Funcionaldades
 ### Paciente:
